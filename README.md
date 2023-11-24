@@ -1,6 +1,6 @@
 - 👋 Hi, I’m eren
 - 👀 I’m interested in the codeverse of new era.////
-- 🌱 I’m currently learning nothing important just wonderning in a college for a stupid degree
+- 🌱 I’m currently learning nothing important just wonderning in a stupid college for a stupid degree
 - 💞️ I’m looking for more codeverse so tag me for that
 - 📫 How to reach me ... not necessary
 
