@@ -1,4 +1,4 @@
-- 👋 Hi, I’m eren
+- 👋 Hi, I’m Ragnar
 - 👀 I’m interested in the codeverse of new era.////
 - 💞️ I’m looking for more codeverse so tag me for that
 - 📫 How to reach me ... not necessary
