@@ -87,5 +87,5 @@
 
 ## 🎵 Random Dev Mood  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=8ry9eprpseufd6hgo4koqu4hb?si=89171d6b32304b46&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=89171d6b32304b46&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
