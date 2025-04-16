@@ -88,7 +88,9 @@
 ## 🎵 Random Dev Mood  
 <p align="center">
   <a href="https://soundcloud.com/marielanmont/double-a-g-o-y-a-r-d?in=sc-playlists-in/sets/wfh-beats&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Now%20Playing-Double%20A%20-%20GOYARD-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Now Playing on SoundCloud" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" alt="SoundCloud Track" width="100" />
   </a>
+  <br/>
+  <em>🎧 Now playing: <strong>Double A - GOYARD</strong></em>
 </p>
 
