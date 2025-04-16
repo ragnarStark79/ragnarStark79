@@ -87,5 +87,8 @@
 
 ## 🎵 Random Dev Mood  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_user_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://soundcloud.com/marielanmont/double-a-g-o-y-a-r-d?in=sc-playlists-in/sets/wfh-beats&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-Double%20A%20-%20GOYARD-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Now Playing on SoundCloud" />
+  </a>
 </p>
+
