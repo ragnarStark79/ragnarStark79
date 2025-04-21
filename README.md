@@ -9,7 +9,7 @@
 
 ## 🎯 About Me  
 - 🔥 Passionate about **Full-Stack Development, AI, and Machine Learning**  
-- 💡 Developing **market-ready applications** with **authentication, payment integration, and GIS mapping**  
+- 💡 Developing **market-ready applications** with **authentication, APIs integration, and GIS mapping**  
 - 🎨 Crafting professional **UI/UX with Tailwind CSS & Bootstrap**  
 - 🧠 Learning **Machine Learning with Python** to build my own AI  
 - 🌍 Always exploring **new technologies** to build scalable solutions  
