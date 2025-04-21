@@ -37,6 +37,15 @@
 
 ---
 
+## 🧠 Current Learning  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift Icon" width="40" />
+  <br/>
+  Currently learning **Swift** for iOS development and exploring the world of mobile apps with a focus on native performance.  
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragnarStark79&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
