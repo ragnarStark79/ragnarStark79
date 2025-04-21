@@ -24,16 +24,16 @@
 ---
 
 ## 📌 Current Projects  
-### 🚀 **Online Land Records & Property Tax Management System**  
-✅ **Fully responsive UI with dark mode & theme customization**  
-✅ **Secure authentication (OAuth)**  
-✅ **Payment integration (Razorpay)**  
-✅ **GIS mapping using third-party APIs**  
+### 🚀 **Lexify, a powerful text enhancement AI tool**  
+✅ **Supports both CLI and web interfaces**  
+✅ **Log interactions to a MongoDB database**  
+✅ **Easily configurable to use different models from Hugging Face**  
+✅ **Feedback mechanism placeholder for future enhancements**  
 
 ### 🤖 **AI-powered Chatting Web App**  
 ✅ **Backend with database & authentication**  
 ✅ **AI chatbot integration via API**  
-✅ **Patent documentation in progress**  
+✅ **Calories tracker integration via API**  
 
 ---
 
