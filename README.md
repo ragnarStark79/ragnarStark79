@@ -37,11 +37,11 @@
 
 ---
 
-## 🧠 Current Learning  
+  ## 🧠 Current Learning  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift" alt="Swift Icon" width="40" />
   <br/>
-  Currently learning **Swift** for iOS development and exploring the world of mobile apps with a focus on native performance.  
+  Learning **Swift** to build awesome iOS apps 🚀📱
 </p>
 
 ---
