@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Ragnar Stark | Full-Stack Developer & AI Enthusiast 👨‍💻</h1>
+<h1 align="center">⚔️ Ragnar Stark | Full-Stack Developer & AI Enthusiast 👨‍💻</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ragnarStark79&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,15 +8,15 @@
 ---
 
 ## 🎯 About Me  
-- Passionate **Full-Stack Developer** with a focus on **AI** and **Machine Learning**.  
-- Specializing in **market-ready applications** with advanced **authentication**, **API integration**, and **GIS mapping**.  
-- Designing professional **UI/UX** using **Tailwind CSS** and **Bootstrap**.  
-- Always expanding my skills, currently learning **Machine Learning with Python** to build my own AI systems.  
-- Continuously exploring **cutting-edge technologies** to create scalable, efficient solutions.
+- ⚡ Passionate about **Full-Stack Development, AI, and Machine Learning**  
+- 🛠️ Crafting **market-ready applications** with **authentication, APIs integration, and GIS mapping**  
+- 🛡️ Developing **robust UI/UX** with **Tailwind CSS & Bootstrap**  
+- 🧠 **Learning the secrets of AI** with **Machine Learning in Python**  
+- 🌍 Constantly exploring **new horizons** in tech to build powerful solutions  
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,nodejs,flask,mysql,mongodb,flutter,git,github,postman,vscode" />
 </p>
@@ -24,35 +24,39 @@
 ---
 
 ## 📌 Current Projects  
+### ⚡ **Lexify, a powerful text enhancement AI tool**
+- 🔹 **Supports both CLI and web interfaces**  
+- 🔹 **Log interactions to a MongoDB database**  
+- 🔹 **Easily configurable** to use different models from **Hugging Face**  
+- 🔹 **Feedback mechanism** placeholder for future enhancements  
 
-### 🚀 **Lexify – Text Enhancement AI Tool**  
-- Supports both **CLI** and **web interfaces**  
-- Logs interactions to a **MongoDB** database for robust data handling  
-- Easily configurable to integrate **multiple models** from **Hugging Face**  
-- Placeholder for future enhancements including **user feedback mechanisms**
-
-### 🤖 **AI-powered Chatting Web App**  
-- Complete **backend** with **database** and **user authentication**  
-- Seamless **AI chatbot** integration via **API**  
-- Integrated **calories tracker** for dietary support
+### 🤖 **AI-powered Chatting Web App**
+- 🔹 **Backend with database & authentication**  
+- 🔹 Use an **AI chatbot** to enhance flexibility, reliability, and response times during conversations.  
+- 🔹 **Patent documentation in progress**  
 
 ---
 
-## 📚 Learning & Growth  
+## 🧠 Current Learning  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift" alt="Swift Icon" width="40" />
-  <br/>Currently learning **Swift** to build intuitive iOS applications 🚀📱
+  <br/>
+  Learning **Swift** to build epic iOS apps 🚀📱
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragnarStark79&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ragnarStark79&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarStark79&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarStark79&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarStark79&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -61,35 +65,40 @@
 
 ---
 
-## 📈 GitHub Streak  
+## 🚀 Fun Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarStark79&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragnarStark79&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ragnarStark79&theme=tokyonight" alt="Contributor Stats" />
 </p>
 
 ---
 
-## 🤝 Let's Connect  
+## 📫 Let's Connect  
 <p align="center">
   <a href="https://github.com/ragnarStark79">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/ragnarStark79">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/ragnarStark79">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://github.com/ragnarStark79">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-## 🎧 Dev Mood  
+## 🎵 Random Dev Mood  
 <p align="center">
-  <a href="https://soundcloud.com/marielanmont/double-a-g-o-y-a-r-d" target="_blank">
+  <a href="https://soundcloud.com/marielanmont/double-a-g-o-y-a-r-d?in=sc-playlists-in/sets/wfh-beats&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" alt="SoundCloud" width="80" />
   </a>
-  <br/><em>Now playing: <strong>Double A - GOYARD</strong></em>
+  <br/>
+  <em>🎧 Now playing: <strong>Double A - GOYARD</strong></em>
 </p>
