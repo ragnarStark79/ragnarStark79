@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Ragnar Stark | Full-Stack Dev & AI Explorer 👨‍💻</h1>
+<h1 align="center">🚀 Ragnar Stark | Full-Stack Developer & AI Enthusiast 👨‍💻</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ragnarStark79&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,10 +8,11 @@
 ---
 
 ## 🎯 About Me  
-- 🔥 Love building cool full-stack apps with real-world use  
-- 🧠 Currently diving deep into ML and AI with Python  
-- 💡 Apps with auth, APIs, GIS, and slick UI/UX via Tailwind & Bootstrap  
-- 🛠️ Big fan of clean code, minimal UI, and learning on the fly  
+- Passionate **Full-Stack Developer** with a focus on **AI** and **Machine Learning**.  
+- Specializing in **market-ready applications** with advanced **authentication**, **API integration**, and **GIS mapping**.  
+- Designing professional **UI/UX** using **Tailwind CSS** and **Bootstrap**.  
+- Always expanding my skills, currently learning **Machine Learning with Python** to build my own AI systems.  
+- Continuously exploring **cutting-edge technologies** to create scalable, efficient solutions.
 
 ---
 
@@ -24,23 +25,23 @@
 
 ## 📌 Current Projects  
 
-### 🚀 **Lexify – Text Enhancement AI Tool**
-- ✅ CLI and Web-based interface  
-- ✅ MongoDB logging support  
-- ✅ Swappable models from HuggingFace  
-- ✅ Feedback-ready for future upgrades  
+### 🚀 **Lexify – Text Enhancement AI Tool**  
+- Supports both **CLI** and **web interfaces**  
+- Logs interactions to a **MongoDB** database for robust data handling  
+- Easily configurable to integrate **multiple models** from **Hugging Face**  
+- Placeholder for future enhancements including **user feedback mechanisms**
 
-### 🤖 **AI-powered Chatting Web App**
-- ✅ Full backend with DB & Auth  
-- ✅ Chatbot integration via API  
-- ✅ Built-in Calories Tracker  
+### 🤖 **AI-powered Chatting Web App**  
+- Complete **backend** with **database** and **user authentication**  
+- Seamless **AI chatbot** integration via **API**  
+- Integrated **calories tracker** for dietary support
 
 ---
 
-## 📚 Learning Now  
+## 📚 Learning & Growth  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift" alt="Swift Icon" width="40" />
-  <br/>Learning Swift to build awesome iOS apps 🚀📱
+  <br/>Currently learning **Swift** to build intuitive iOS applications 🚀📱
 </p>
 
 ---
