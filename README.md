@@ -22,17 +22,18 @@
 
 ---
 
-## 🚀 Projects  
-### ✨ **Lexify - Text Enhancement AI**  
-- CLI + Web UI  
-- Logs to MongoDB  
-- HuggingFace model support  
-- Feedback-ready!
+## 📌 Current Projects  
 
-### 🤖 **AI Chat Web App**  
-- Auth + DB + Chatbot via API  
-- Calories tracker integration  
-- Clean interface with speech features
+### 🚀 **Lexify – Text Enhancement AI Tool**
+- ✅ CLI and Web-based interface  
+- ✅ MongoDB logging support  
+- ✅ Swappable models from HuggingFace  
+- ✅ Feedback-ready for future upgrades  
+
+### 🤖 **AI-powered Chatting Web App**
+- ✅ Full backend with DB & Auth  
+- ✅ Chatbot integration via API  
+- ✅ Built-in Calories Tracker  
 
 ---
 
@@ -50,10 +51,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ragnarStark79&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarStark79&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -63,13 +60,9 @@
 
 ---
 
-## 📈 Activity  
+## 📈 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragnarStark79&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ragnarStark79&theme=tokyonight" alt="Contributor Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarStark79&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
