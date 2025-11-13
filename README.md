@@ -17,7 +17,65 @@
 ⣿⣿⡟⠁                                                  ⣿⣿⣿
 </pre>
 
-# ⚔️ Ragnar Stark | Full-Stack Developer & AI Engineer 👨‍💻
+# ⚔️ Ragnar Stark | Full-Stack Developer & AI Engineer
+
+---
+
+## 🚀 Ragnar Stark Cyber Logo (Animated)
+
+<p align="center">
+  <img src="https://i.ibb.co/30WBk9M/cyber-logo.gif" width="260" />
+</p>
+
+---
+
+## 🧑‍💻 Pixel-Art Hacker Avatar
+
+<p align="center">
+  <img src="https://i.ibb.co/3cv9nbj/pixel-hacker.gif" width="200" />
+  <br><em>“Entering Code Mode…”</em>
+</p>
+
+---
+
+## 🔮 Skills Hologram Panel
+
+<p align="center">
+  <img src="https://i.ibb.co/X51P2pm/hologram-skills.gif" width="80%" />
+</p>
+
+---
+
+## 📦 Tech Stack Cards
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,swift,java&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,aws&perline=6" />
+</p>
+
+---
+
+## 🖥️ Futuristic Terminal-Style About Me
+
+```bash
+$ whoami
+> Ragnar Stark
+> Full-Stack Developer | AI Engineer | ML Enthusiast
+
+$ skills --list
+> JavaScript   Python   Swift   ML   AI   DevOps
+> Full-Stack Dev | Backend Arch | UI/UX Engineering
+
+$ mission
+> Build futuristic systems.
+> Automate everything.
+> Level up every day.
+```
+
+--- 👨‍💻
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ragnarStark79&label=Profile%20Views&color=blueviolet&style=flat" />
