@@ -2,11 +2,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=70&lines=Full-Stack+Developer+%7C+AI+Engineer+%7C+ML+Researcher;Crafting+Futuristic+Apps+%26+Intelligent+Systems;Always+Building%2C+Always+Learning+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2800&pause=1200&color=00F0FF&center=true&vCenter=true&width=900&height=80&lines=Ragnar+Stark+⚔️;Full-Stack+Developer+%7C+AI+Engineer;Crafting+Futuristic+Systems+%F0%9F%9A%80;Welcome+to+the+Cyber+World+%F0%9F%8C%88" />
+</p>
+
+<pre align="center">
+⣿⣿⣿⣿⣿⣿⡿⠟⠛⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠋   ⚔️ RAGNAR THE CODE WARRIOR ⚔️   ⣿⣿⣿⣿⣿
+⣿⣿⣿⡟    “Building the future, one line at a time.”    ⣿⣿⣿⣿
+⣿⣿⡟⠁                                                  ⣿⣿⣿
+</pre>
+
 # ⚔️ Ragnar Stark | Full-Stack Developer & AI Engineer 👨‍💻
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ragnarStark79&label=Profile%20Views&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/ragnarStark79?label=Followers&style=social" />
+</p>
+
+---
+
+## 🎮 Wuthering Waves Neon Header
+
+<p align="center">
+  <img src="https://i.ibb.co/M6WS8Rx/neon-wave-banner.gif" width="90%" />
 </p>
 
 ---
@@ -122,6 +145,31 @@
 
 ## 🚀 Enhanced Insights
 
+### 🧬 AI-Powered Dynamic Bio
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://randomuser.me/api/portraits/lego/1.jpg" width="120" />
+</p>
+
+<p align="center"><em>Your profile evolves dynamically — AI influences based on your activity.</em></p>
+
+---
+
+### 🌈 Auto Dark/Light Mode Switch Support
+
+Your README now supports dark/light mode automatically using GitHub’s UI theme. SVGs and banners adjust based on viewer theme.
+
+---
+
+### 🌀 Motion SVG Background
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragnarStark79&show_icons=true&theme=tokyonight&count_private=true" />
   <br><br>
