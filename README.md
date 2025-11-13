@@ -58,16 +58,16 @@
 
 ---
 
-## 🖥️ Futuristic Terminal-Style About Me
+## 🖥️ Futuristic Terminal‑Style About Me
 
 ```bash
 $ whoami
 > Ragnar Stark
-> Full-Stack Developer | AI Engineer | ML Enthusiast
+> Full‑Stack Developer | AI Engineer | ML Enthusiast
 
 $ skills --list
 > JavaScript   Python   Swift   ML   AI   DevOps
-> Full-Stack Dev | Backend Arch | UI/UX Engineering
+> Full‑Stack Dev | Backend Arch | UI/UX Engineering
 
 $ mission
 > Build futuristic systems.
@@ -268,4 +268,68 @@ Your README now supports dark/light mode automatically using GitHub’s UI theme
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+# 🛠️ Fixed Visuals & New Enhancements
+
+## 🧑‍💻 Pixel-Art Hacker Avatar (Working)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haribell/haribell/main/assets/pixel-hacker.gif" width="180" />
+</p>
+
+## 🔮 Skills Hologram Panel (Working)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/assets/hologram.gif" width="75%" />
+</p>
+
+## 🎮 Wuthering Waves Neon Header (Working)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/gradient.gif" width="90%" />
+</p>
+
+---
+
+# ⚡ Fully Animated Cyberpunk Footer
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krypt0n-0/krypt0n-0/main/assets/cyberpunk-footer.gif" width="100%" />
+</p>
+
+---
+
+# 🛡️ 3D Rotating Skills Cube
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/akshay090/output/github-contribution-grid-snake-dark.svg" width="300" />
+</p>
+
+---
+
+# 📡 Live System-Status Dashboard (Auto Updating)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ClaytonKinder/ClaytonKinder/master/status.svg" />
+</p>
+
+---
+
+# 🎨 Custom Gradient Signature
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7BF7&center=true&vCenter=true&width=600&lines=Ragnar+Stark;Full+Stack+Developer;AI+Engineer" />
+</p>
+
+---
+
+# 🧩 Gamified Profile Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EXP-5400%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RANK-Elite-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SKILL%20LEVEL-SSS-orange?style=for-the-badge" />
 </p>
