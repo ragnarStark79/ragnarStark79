@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,27&height=300&section=header&text=Ragnar%20Stark&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Engineer%20|%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=⚔️+Traveler+of+Code+Realm;🌟+Building+Digital+Teyvat;💫+AI+%26+ML+Alchemist;🎮+Full-Stack+Adventurer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7BF7&center=true&vCenter=true&width=600&lines=Ragnar+Stark;Full+Stack+Developer;AI+Engineer" />
 
 <!-- Profile Views & Followers -->
 <p>
@@ -256,6 +256,10 @@ const ragnarStark = {
 </div>
 
 ---
+## 🧬 AI-Powered Dynamic Bio
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" />
 
 ## 💬 Wisdom from the Archons
 
