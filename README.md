@@ -16,20 +16,17 @@
 </div>
 
 ---
+## 🎮 Welcome to My Digital Teyvat
 
 <!-- Genshin Character Banner -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="Genshin Impact Banner" />
 </div>
 
----
-
-## 🎮 Welcome to My Digital Teyvat
-
 <div align="center">
   
-<!-- Cute Pixel Character -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
+<!-- Genshin Impact Character -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-6889a8c29003.gif" width="500" alt="Gaming Setup" /> -->
 
 <br>
 
