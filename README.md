@@ -103,7 +103,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ragnarStark79&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ragnarStark79&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D&fire=DD2727&ring=1E90FF&currStreakNum=1E90FF&sideNums=00D9FF&sideLabels=00D9FF&currStreakLabel=DD2727" />
+</p>.herokuapp.com?user=ragnarStark79&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
