@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?color=34E2F7&lines=Full+Stack+Developer;AI+Engineer;ML+Researcher;Crafting+Futuristic+Apps;Intelligent+Systems;Always+Building;Always+Learning" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 </p>
 
@@ -272,92 +268,64 @@ Your README now supports dark/light mode automatically using GitHub’s UI theme
 
 ---
 
-# 🛠️ Fixed Visuals & New Enhancements (All fixed)
-
-> ✅ I replaced external, flaky image links with **inline SVG data-URIs** so these visuals load reliably on GitHub (no third‑party host). If you prefer custom graphics, I can swap them with assets from your repo.
-
----
+# 🛠️ Fixed Visuals & New Enhancements
 
 ## 🧑‍💻 Pixel-Art Hacker Avatar (Working)
 
 <p align="center">
-  <img alt="Pixel Hacker Avatar" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 8 8' shape-rendering='crispEdges'><rect width='8' height='8' fill='%23000' /><rect x='1' y='1' width='6' height='6' fill='%23111' /><rect x='1' y='1' width='2' height='2' fill='%23333' /><rect x='5' y='1' width='2' height='2' fill='%23333' /><rect x='2' y='2' width='4' height='3' fill='%23ffd699' /><rect x='2' y='5' width='4' height='1' fill='%230d6efd' /><rect x='2' y='3' width='1' height='1' fill='%23000' /><rect x='5' y='3' width='1' height='1' fill='%23000' /><rect x='3' y='4' width='2' height='1' fill='%23ef4444' /></svg>" width="180" />
+  <img src="https://raw.githubusercontent.com/haribell/haribell/main/assets/pixel-hacker.gif" width="180" />
 </p>
 
 ## 🔮 Skills Hologram Panel (Working)
 
 <p align="center">
-  <img alt="Skills Hologram" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 120' width='720' height='216'><defs><radialGradient id='g' cx='50%' cy='50%'><stop offset='0%' stop-color='%2300FFFF' stop-opacity='0.9'/><stop offset='60%' stop-color='%2355FFAA' stop-opacity='0.25'/><stop offset='100%' stop-color='%23000' stop-opacity='0'/></radialGradient></defs><rect width='100%25' height='100%25' fill='%23020b12' /><g transform='translate(200,60)'><circle r='44' fill='url(%23g)'><animate attributeName='r' from='40' to='48' dur='2.4s' repeatCount='indefinite' /></circle><circle r='30' fill='none' stroke='%2300FFD1' stroke-opacity='0.6' stroke-width='1'><animate attributeName='stroke-opacity' values='0.2;0.9;0.2' dur='3s' repeatCount='indefinite' /></circle><g font-family='Fira Code,monospace' font-size='12' text-anchor='middle' fill='%23D6FFEF' transform='translate(0,4)'><text y='-38'>Skills</text><text y='-22' font-size='10'>JavaScript · Python · Swift</text><text y='-8' font-size='10'>React · Node · Flask · Docker</text></g></g></svg>" width="75%" />
+  <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/assets/hologram.gif" width="75%" />
 </p>
 
 ## 🎮 Wuthering Waves Neon Header (Working)
 
 <p align="center">
-  <img alt="Neon Header" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='900' height='80' viewBox='0 0 900 80'><defs><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3.5' result='b' /><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter><linearGradient id='ng' x1='0' x2='1'><stop offset='0' stop-color='%23ff477e' /><stop offset='0.6' stop-color='%2321d4ff' /><stop offset='1' stop-color='%2381ff7a' /></linearGradient></defs><rect width='100%25' height='100%25' fill='%230b0f14' /><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Orbitron,serif' font-size='34' fill='url(%23ng)' filter='url(%23glow)'>Wuthering Waves — Neon</text></svg>" width="90%" />
-</p>
-
-## ⚡ Fully Animated Cyberpunk Footer (Working)
-
-<p align="center">
-  <img alt="Cyber Footer" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='80' viewBox='0 0 1200 80'><linearGradient id='f' x1='0' x2='1'><stop offset='0' stop-color='%23002b36'/><stop offset='1' stop-color='%23003a4a'/></linearGradient><rect width='1200' height='80' fill='url(%23f)' /><text x='20' y='52' font-family='Fira Code,monospace' font-size='14' fill='%2300e5ff'>⚔️ Ragnar Stark — Building Futuristic Systems</text><g transform='translate(980,12)'><rect x='0' y='0' width='180' height='56' rx='8' fill='%23000000' opacity='0.12' /><text x='90' y='34' font-family='Fira Code' font-size='12' text-anchor='middle' fill='%23ffffff'>Status: Online</text></g></svg>" width="100%" />
-</p>
-
-## 🛡️ 3D Rotating Skills Cube (Working)
-
-<p align="center">
-  <img alt="Rotating Cube" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200' width='300' height='300'><defs><linearGradient id='c' x1='0' x2='1'><stop offset='0' stop-color='%2300d9ff' /><stop offset='1' stop-color='%236b00ff' /></linearGradient></defs><g transform='translate(100,100)'><rect x='-48' y='-48' width='96' height='96' rx='8' fill='url(%23c)' transform='rotate(20)'><animateTransform attributeName='transform' attributeType='XML' type='rotate' from='0' to='360' dur='8s' repeatCount='indefinite' /></rect><text x='0' y='0' font-family='Fira Code' font-size='10' fill='%23fff' text-anchor='middle' dominant-baseline='middle'>JS · PY · SWIFT</text></g></svg>" width="300" />
-</p>
-
-## 📡 Live System-Status Dashboard (Auto Updating) (Working)
-
-<p align="center">
-  <a href='https://github.com/ragnarStark79'><img alt='Uptime Badge' src='https://img.shields.io/badge/uptime-99.99%25-brightgreen?style=for-the-badge' /></a>
-  <br/>
-  <img alt='Recent Activity' src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120"><rect width="100%" height="100%" fill="#071019"/><g fill="#14f195"><rect x="10" y="60" width="20" height="40"/><rect x="40" y="40" width="20" height="60"/><rect x="70" y="70" width="20" height="30"/><rect x="100" y="20" width="20" height="80"/><rect x="130" y="50" width="20" height="50"/></g></svg>' width='75%' />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/gradient.gif" width="90%" />
 </p>
 
 ---
 
-# ✨ Next Pack — Advanced Additions (added)
-
-### 🔧 Animated Build Pipeline Banner
+# ⚡ Fully Animated Cyberpunk Footer
 
 <p align="center">
-  <img alt="Build Pipeline" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 120' width='900' height='120'><rect width='100%25' height='100%25' fill='%230b0f14' /><g font-family='Fira Code' font-size='13' fill='%23fff'><text x='36' y='36'>build</text><text x='36' y='60' fill='%2300e5ff'>→ test</text><text x='36' y='84' fill='%23ffdd57'>→ deploy</text></g><g transform='translate(220,26)'><rect x='0' y='0' width='120' height='64' rx='8' fill='%2300313b' /><text x='60' y='36' text-anchor='middle' font-family='Fira Code' font-size='13' fill='%23fff'>CI</text></g><animate attributeName='opacity' from='0.6' to='1' dur='2.6s' repeatCount='indefinite' /></svg>' width='90%' />
+  <img src="https://raw.githubusercontent.com/krypt0n-0/krypt0n-0/main/assets/cyberpunk-footer.gif" width="100%" />
 </p>
-
-### 🧬 AI-Generated Self-Intro Avatar (Preview)
-
-<p align="center">This is a preview placeholder — to generate your custom AI avatar I can run a style transfer and add the result here (I will provide the exact prompt and options).<br/><img alt='AI Avatar Placeholder' src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160"><rect width="100%" height="100%" rx="20" fill="#0b0f14"/><text x="50%" y="85%" font-family="Fira Code" font-size="12" fill="#9ee5ff" text-anchor="middle">AI Avatar</text></svg>' width='160' /></p>
-
-### 🌐 Live Coding Activity Tracker (WakaTime-like)
-
-<p align="center">
-  <img alt='WakaTime-like Badge' src='https://img.shields.io/badge/last%20coding-2%20hrs%20ago-blue?style=for-the-badge' />
-  <br/>
-  <small>Connect your WakaTime / GitHub activity to show real stats here.</small>
-</p>
-
-### ⚔️ Cyber Samurai Divider Bars
-
-<p align="center"><img alt='Divider' src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40"><rect width="100%" height="100%" fill="#05060a"/><g fill="#00d9ff" font-family="Fira Code" font-size="12"><text x="50%" y="22" text-anchor="middle">⚔️ — — — — — — — — — — — — — — — — — — — — — — — — — —</text></g></svg>' width='100%' /></p>
-
-### 💠 Hexagonal Skill-Grid Layout (SVG)
-
-<p align="center">
-  <img alt='Hex Grid' src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180' width='600' height='180'><rect width='100%25' height='100%25' fill='%230b0f14'/><g transform='translate(80,40)' fill='%2300e5ff' font-family='Fira Code' font-size='12'><text x='0' y='0'>JavaScript</text><text x='120' y='0'>Python</text><text x='240' y='0'>React</text><text x='60' y='48'>Node</text><text x='180' y='48'>Docker</text></g></svg>' width='80%' />
-</p>
-
-### 🎛️ Holographic Buttons (Clickable Images)
-
-<p align="center">
-  <a href='https://github.com/ragnarStark79'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge' /></a>
-  <a href='https://github.com/ragnarStark79?tab=repositories'><img alt='Repos' src='https://img.shields.io/badge/Repos-Explore-green?style=for-the-badge' /></a>
-</p>
-
-### 🪩 Reflective Glassmorphism Skill Cards
-
-<p align="center">
-  <img alt='Skill Card' src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120"><defs><filter id="glass"><feGaussianBlur stdDeviation="6" result="b"/><feBlend in="SourceGraphic" in2="b" mode="screen"/></filter></defs><rect width="100%" height="100%" fill="#071019"/><g transform='translate(40,20)'><rect width='520' height='80' rx='12' fill='#0c1720' opacity='0.7' filter='url(%23glass)'/><text x='26' y='46' font-family='Fira Code' font-size='18' fill='#fff'>Skills: JavaScript · Python · React · Docker</text></g></svg>' width='90%' /></p>
 
 ---
+
+# 🛡️ 3D Rotating Skills Cube
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/akshay090/output/github-contribution-grid-snake-dark.svg" width="300" />
+</p>
+
+---
+
+# 📡 Live System-Status Dashboard (Auto Updating)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ClaytonKinder/ClaytonKinder/master/status.svg" />
+</p>
+
+---
+
+# 🎨 Custom Gradient Signature
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7BF7&center=true&vCenter=true&width=600&lines=Ragnar+Stark;Full+Stack+Developer;AI+Engineer" />
+</p>
+
+---
+
+# 🧩 Gamified Profile Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EXP-5400%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RANK-Elite-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SKILL%20LEVEL-SSS-orange?style=for-the-badge" />
+</p>
