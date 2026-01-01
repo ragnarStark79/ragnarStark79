@@ -229,7 +229,7 @@ const ragnarStark = {
 
 ---
 
-## 🌟 Constellation Level (Gamified Stats)
+## 🌟 Constellation Level (Gamified Level Stats)
 
 <div align="center">
 
