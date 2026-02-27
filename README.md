@@ -140,6 +140,21 @@ const ragnarStark = {
 <tr>
 <td width="50%">
 
+### 🛡️ QuizOasis (Quizz App)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+
+**✨ Rarity:** 5-Star Legendary
+
+- 🔐 Advanced authentication
+- 🅖 Firebase Googel Authentication
+- 💬 AI Quiz Generation
+- 📈 Scalable architecture
+- 🎨 Modern UI/UX design
+- ⚙️ Production-ready
+- 🚨 Maintainance Mode Feature
+
+</td>
+<td width="50%">
 ### ⚡ Lexify - AI Text Enhancer
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" />
 
@@ -151,31 +166,18 @@ const ragnarStark = {
 - 🔮 Smart config management
 - 🚀 Real-time enhancement
 
-</td>
-<td width="50%">
-
-### 🛡️ AI Chat System
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
-
-**✨ Rarity:** 5-Star Legendary
-
-- 🔐 Advanced authentication
-- 💬 Conversational AI engine
-- 📈 Scalable architecture
-- 🎨 Modern UI/UX design
-- ⚙️ Production-ready
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### 🗺️ GIS Mapping & Tracking
+### 🗺️ Event Management System
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" />
 
 **✨ Rarity:** 5-Star Legendary
 
-- 📍 Real-time GPS tracking | 🗺️ Interactive mapping | 🎯 High-precision coordinates | ⚡ Enterprise-grade reliability | 🌐 Multi-platform support
+- 📍 Real-time Event tracking | 🗺️ Public & College Event Profiles | 🎯 RABC | ⚡ Postgres + Redis | 🌐 Public + Organization + Administration Management System
 
 </td>
 </tr>
