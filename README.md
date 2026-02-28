@@ -208,8 +208,8 @@ const ragnarStark = {
 <div align="center">
 
 <!-- GitHub Streak Stats with Genshin Theme -->
-<img src="https://streak-stats.demolab.com/?user=ragnarStark79&theme=tokyonight&hide_border=true&fire=FFB900&ring=4FC3F7&currStreakNum=4FC3F7&sideNums=FFB900&sideLabels=4FC3F7&currStreakLabel=FFB900&border_radius=10" width="49%" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ragnarStark79&stroke=0001EB&ring=EB5454" alt="GitHub Streak" /></a>
+<!-- <img src="https://streak-stats.demolab.com/?user=ragnarStark79&theme=tokyonight&hide_border=true&fire=FFB900&ring=4FC3F7&currStreakNum=4FC3F7&sideNums=FFB900&sideLabels=4FC3F7&currStreakLabel=FFB900&border_radius=10" width="49%" /> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ragnarStark79&stroke=EBE188&ring=EB5454&sideNums=F0CF00&dates=33EAEB&currStreakNum=46EB00&currStreakLabel=F0CF00&background=45%2CCB7868%2C2EA4BB&border=2EA4BB" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=ragnarStark79&show_icons=true&theme=tokyonight&hide_border=true&icon_color=4FC3F7&title_color=FFB900&text_color=ffffff&bg_color=1a1b27&border_radius=10&include_all_commits=true&count_private=true" width="49%" />
 
 <!-- Language Stats -->
