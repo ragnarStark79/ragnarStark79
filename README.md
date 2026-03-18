@@ -205,18 +205,44 @@ const ragnarStark = {
 
 ## 📊 Adventurer's Statistics
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- GitHub Streak Stats with Genshin Theme -->
 <!-- <img src="https://streak-stats.demolab.com/?user=ragnarStark79&theme=tokyonight&hide_border=true&fire=FFB900&ring=4FC3F7&currStreakNum=4FC3F7&sideNums=FFB900&sideLabels=4FC3F7&currStreakLabel=FFB900&border_radius=10" width="49%" /> -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ragnarStark79&stroke=EBE188&ring=EB5454&sideNums=F0CF00&dates=33EAEB&currStreakNum=46EB00&currStreakLabel=F0CF00&background=45%2CCB7868%2C2EA4BB&border=2EA4BB" alt="GitHub Streak" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=ragnarStark79&show_icons=true&theme=tokyonight&hide_border=true&icon_color=4FC3F7&title_color=FFB900&text_color=ffffff&bg_color=1a1b27&border_radius=10&include_all_commits=true&count_private=true" width="49%" />
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ragnarStark79&stroke=EBE188&ring=EB5454&sideNums=F0CF00&dates=33EAEB&currStreakNum=46EB00&currStreakLabel=F0CF00&background=45%2CCB7868%2C2EA4BB&border=2EA4BB" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=ragnarStark79&show_icons=true&theme=tokyonight&hide_border=true&icon_color=4FC3F7&title_color=FFB900&text_color=ffffff&bg_color=1a1b27&border_radius=10&include_all_commits=true&count_private=true" width="49%" /> -->
 
 <!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarStark79&layout=compact&theme=tokyonight&hide_border=true&title_color=FFB900&text_color=4FC3F7&bg_color=1a1b27&border_radius=10&langs_count=8" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarStark79&layout=compact&theme=tokyonight&hide_border=true&title_color=FFB900&text_color=4FC3F7&bg_color=1a1b27&border_radius=10&langs_count=8" width="49%" /> -->
 
 <!-- Contribution Graph -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragnarStark79&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=4FC3F7&line=FFB900&point=4FC3F7&area=true&border_radius=10" width="98%" /> -->
+
+<!-- 3D Contribution Graph -->
+<!-- <img src="https://raw.githubusercontent.com/ragnarStark79/ragnarStark79/output-3d-contrib/profile-green-dual.svg" width="100%" alt="3D Contributions"/>
+
+</div> -->
+
+<div align="center">
+
+<!-- 🔥 Top Row: Streak + Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ragnarStark79&stroke=EBE188&ring=EB5454&sideNums=F0CF00&dates=33EAEB&currStreakNum=46EB00&currStreakLabel=F0CF00&background=45%2CCB7868%2C2EA4BB&border=2EA4BB" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ragnarStark79&show_icons=true&theme=tokyonight&hide_border=true&icon_color=4FC3F7&title_color=FFB900&text_color=ffffff&bg_color=1a1b27&border_radius=10&include_all_commits=true&count_private=true" width="49%" />
+
+<br><br>
+
+<!-- ⚡ Middle Row: Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarStark79&layout=compact&theme=tokyonight&hide_border=true&title_color=FFB900&text_color=4FC3F7&bg_color=1a1b27&border_radius=10&langs_count=8" width="60%" />
+
+<br><br>
+
+<!-- 📈 Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragnarStark79&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=4FC3F7&line=FFB900&point=4FC3F7&area=true&border_radius=10" width="98%" />
+
+<br><br>
+
+<!-- 🧊 3D Contribution Graph -->
+<img src="https://raw.githubusercontent.com/ragnarStark79/ragnarStark79/output-3d-contrib/profile-green-dual.svg" width="100%" alt="3D Contributions"/>
 
 </div>
 
@@ -257,6 +283,7 @@ const ragnarStark = {
 </picture>
 
 </div>
+
 
 ---
 ## 🧬 AI-Powered Dynamic Bio
