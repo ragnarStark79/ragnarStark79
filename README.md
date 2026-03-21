@@ -335,7 +335,7 @@ const ragnarStark = {
 
 <div align="center">
 
-<!-- Character Showcase -->
+<!-- Genshin Character Showcase -->
 <table>
 <tr>
 <td align="center">
